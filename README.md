@@ -401,8 +401,8 @@ This makes it easier to demonstrate the system during development and technical 
 Clone the repository:
 
 ```bash
-git clone https://github.com/pavanbhatkar1/agentic-rag-se-qa.git
-cd agentic-rag-se-qa
+git clone https://github.com/SimarjeetSingh787/Agentic_RAG_for_Software_Engg_Q-A.git
+cd Agentic_RAG_for_Software_Engg_Q-A
 ```
 
 Create a virtual environment:
